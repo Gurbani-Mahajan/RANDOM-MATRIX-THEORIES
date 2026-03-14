@@ -2,8 +2,7 @@
 
 This repository contains computational explorations of **Random Matrix Theory (RMT)** and **quantum chaos**, through both theoretical models and empirical nuclear spectra.
 
-The project studies how complex quantum systems exhibit spectral statistics predicted by random matrix ensembles, particularly the **Gaussian Orthogonal Ensemble (GOE)**.
-
+The project studies how complex quantum systems exhibit spectral statistics predicted by random matrix ensembles.
 ---
 
 ## Projects
